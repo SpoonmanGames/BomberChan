@@ -47,6 +47,8 @@ Para ambos casos eres libre de hacer lo que quieras con los archivos, **aunque a
 
 El juego está hecho en [BennuGD](http://www.bennugd.org/) por lo que para trabajar bien con todos los elementos de este repositorio te recomendamos:
 
+![BennuGD](http://forum.bennugd.org/logo.jpg "BennugGD")
+
 * [Instalar BennuGD](http://www.bennugd.org/es/node/30).
 * [Instalar BennuPack](http://bennupack.blogspot.com/).
 
