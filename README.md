@@ -29,8 +29,8 @@ El juego corre actualmente en Windows 7, 8 y 8.1. La versión v0.4.8 corre tambi
 
 Para bajar el código fuente tienes dos opciones:
 
-* Bajar directamente los archivos [aquí](https://github.com/SpoonmanGames/BomberChan/archive/master.zip)
-* Hacer **Fork** al proyecto en github (necesitas una cuenta de github para hacer esto)
+* Bajar directamente los archivos [aquí](https://github.com/SpoonmanGames/BomberChan/archive/master.zip).
+* Hacer **Fork** al proyecto en github (necesitas una cuenta de github para hacer esto).
 
 Para ambos casos eres libre de hacer lo que quieras con los archivos, **aunque agradeceriamos mucho que nos nombraras si lo republicas en alguna parte**. Si deseas mejorar este mismo repositorio (usando la segunda opción) sientete libre de hacer un *pull request*.
 
@@ -38,8 +38,14 @@ Para ambos casos eres libre de hacer lo que quieras con los archivos, **aunque a
 
 El juego está hecho en [BennuGD](http://www.bennugd.org/) por lo que para trabajar bien con todos los elementos de este repositorio te recomendamos:
 
-* [Instalar BennuGD](http://www.bennugd.org/es/node/30)
-* [Instalar BennuPack](http://bennupack.blogspot.com/)
+* [Instalar BennuGD](http://www.bennugd.org/es/node/30).
+* [Instalar BennuPack](http://bennupack.blogspot.com/).
 
 Si quieres usar este proyecto para aprender o experimentar, pero no sabes BennuGD te recomiendo visitar la exelente [Comunidad de BennuGD](http://forum.bennugd.org/) donde podrás aprender de todo y sí, tanto el lenguaje como la comunidad es de lengua española.
 
+# Únente a Spoonman Games
+
+No olvides visitar www.spoonmangames.cl y la [página oficial de Facebook](https://www.facebook.com/spoonman.games) dónde puedes preguntar cualquier duda sobre este u otros proyectos.
+Enterate de las últimas noticias siguiendos en [Facebook](https://www.facebook.com/spoonman.games) o en [Twitter](https://twitter.com/spoonmangames).
+
+Saludos de la Gran Cuchara!
