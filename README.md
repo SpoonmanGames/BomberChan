@@ -1,4 +1,6 @@
-# BomberChan
+![Spoonman Games](http://www.spoonmangames.cl/images/sp-portada.png "Spoonman Games")
+
+# Bomber-Chan!
 
 Clon de Super Bomber-Man 5 de SNES, este proyecto fue el primer proyecto en el que Spoonman Games trabajó y por lo tanto fue experimental y de aprendisaje.
 
@@ -9,6 +11,8 @@ El juego no está terminado pero implementa todas las funcionalidades básicas d
 **Este juego no está en desarrollo, la versión actual es la última y no se pleanea continuar, ni arreglar bugs ni mejorar ningún aspecto del mismo. Es un proyecto abandonado que sirvió de experimentación en los primeros días de Spoonman Games.**
 
 # Download Beta
+
+![Bomber-Chan](http://www.spoonmangames.cl/images/bomberchan.jpg "Bomber-Chan!")
 
 
 
@@ -43,7 +47,7 @@ El juego está hecho en [BennuGD](http://www.bennugd.org/) por lo que para traba
 
 Si quieres usar este proyecto para aprender o experimentar, pero no sabes BennuGD te recomiendo visitar la exelente [Comunidad de BennuGD](http://forum.bennugd.org/) donde podrás aprender de todo y sí, tanto el lenguaje como la comunidad es de lengua española.
 
-# Únente a Spoonman Games
+![Spoonman Logo](http://www.spoonmangames.cl/images/sp-logo.png)
 
 No olvides visitar www.spoonmangames.cl y la [página oficial de Facebook](https://www.facebook.com/spoonman.games) dónde puedes preguntar cualquier duda sobre este u otros proyectos.
 Enterate de las últimas noticias siguiendos en [Facebook](https://www.facebook.com/spoonman.games) o en [Twitter](https://twitter.com/spoonmangames).
