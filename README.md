@@ -17,7 +17,7 @@ El juego no está terminado pero implementa todas las funcionalidades básicas d
 El beta de Bomber-Chan! es la versión 0.4 del juego, te aconsejo revisar los dos siguientes links para bajar y usar correctamente el juego:
 
 * [Link de desgarga](https://github.com/SpoonmanGames/BomberChan/archive/v0.4.zip).
-* [FAQ de uso](https://github.com/SpoonmanGames/BomberChan/releases).
+* [FAQ de uso](https://github.com/SpoonmanGames/BomberChan/releases/tag/v0.4).
 
 # Última versión
 
@@ -28,7 +28,7 @@ La última versión en este repositorio es la v0.4.8 la cuál contiene:
 * Soporte completo para cinco jugadores en una partida.
 * Soporte completo para diferentes Joysticks.
 
-Los controles y menú son iguales al beta por lo que se recomienda revisar la [FAQ de uso](https://github.com/SpoonmanGames/BomberChan/releases).
+Los controles y menú son iguales al beta por lo que se recomienda revisar la [FAQ de uso](https://github.com/SpoonmanGames/BomberChan/releases/tag/v0.4).
 
 # Plataformas
 
